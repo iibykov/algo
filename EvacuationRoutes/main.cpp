@@ -17,6 +17,7 @@ int main()
     graph.addNode(&n4);
     graph.addNode(&n5);
 
+
     graph.addEdge(&n0, &n1, 10);
     graph.addEdge(&n0, &n2, 20);
     graph.addEdge(&n1, &n3, 10);
